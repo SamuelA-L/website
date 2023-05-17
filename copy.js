@@ -1,7 +1,7 @@
 let isCopy = false
 
 function copy() {
-    navigator.clipboard.writeText('willcavanagh@hotmail.com'); 
+    navigator.clipboard.writeText('sam.aglussier@gmail.com'); 
     updateText()
     setTimeout(updateText, 2000);
 }

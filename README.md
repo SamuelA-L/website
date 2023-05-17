@@ -1,6 +1,6 @@
 # Personal Website
 
-This is my [personal website](https://williamglazer.github.io/website/) inspired by [linktree](https://linktr.ee/), feel free to fork and edit!
+This is my [personal website](https://samuela-l.github.io/website/) inspired by [linktree](https://linktr.ee/), feel free to fork and edit!
 
 ## Sources
 
